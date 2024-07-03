@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dapp-0.1";
 const contentToCache = [
-    "Build/Mr_V6.loader.js",
-    "Build/Mr_V6.framework.js",
-    "Build/Mr_V6.data",
-    "Build/Mr_V6.wasm",
+    "Build/V9.loader.js",
+    "Build/V9.framework.js",
+    "Build/V9.data",
+    "Build/V9.wasm",
     "TemplateData/style.css"
 
 ];

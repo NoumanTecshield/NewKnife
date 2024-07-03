@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/Mr_V6.loader.js";
+  var loaderUrl = buildUrl + "/V9.loader.js";
   var config = {
-    dataUrl: buildUrl + "/Mr_V6.data",
-    frameworkUrl: buildUrl + "/Mr_V6.framework.js",
-    codeUrl: buildUrl + "/Mr_V6.wasm",
+    dataUrl: buildUrl + "/V9.data",
+    frameworkUrl: buildUrl + "/V9.framework.js",
+    codeUrl: buildUrl + "/V9.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "Dapp",
